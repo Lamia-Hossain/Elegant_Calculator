@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 This is in my pc
+=======
+This is in GitHub
+>>>>>>> b2dbdeb40d20ad037aaa501276004fe4f4c5ff66
+
+
+Edited
